@@ -1,0 +1,10 @@
+review_id,order_id,customer_id,restaurant_id,review_text,rating,review_timestamp
+REV-000001,ORD-20250719-697725,CUST-10189,REST-AUH-002,Hands down the best Fresh Lime Soda I've ever had! Fresh Lime Soda  Chicken Tikka Masala  Mango Lassi  and Garlic Naan were all prepared beautifully. Fresh and flavorful!,5,2025-07-23T11:43:31.175
+REV-000003,ORD-20250724-794249,CUST-10000,REST-SHJ-001,Good quality food. Aloo Tikki Chaat  Malai Kofta  Jeera Rice  Tandoori Roti  and Butter Chicken were nicely done. Malai Kofta could have been slightly spicier but still good!,4,2025-07-29T21:08:04.175
+REV-000002,ORD-20250723-424252,CUST-10311,REST-DXB-002,Enjoyed the Vegetable Biryani  Fish Curry  Chicken 65  and Rasmalai (2 pcs)! Chicken 65 was very good. Portion sizes were generous. Recommend!,4,2025-07-30T11:45:00.175
+REV-000005,ORD-20250730-831474,CUST-10040,REST-SHJ-001,Poor experience. Rasmalai (2 pcs)  Gajar Halwa  and Sweet Lassi were disappointing. Sweet Lassi was burnt on the edges. Very unhappy.,2,2025-08-01T14:37:05.175
+REV-000004,ORD-20250727-474364,CUST-10217,REST-AUH-002,Absolutely amazing Vegetable Biryani  Butter Chicken  and Butter Naan! The Vegetable Biryani was cooked to perfection. Fresh ingredients and authentic flavors. Highly recommend!,5,2025-08-01T17:37:41.175
+REV-000009,ORD-20250803-607088,CUST-10397,REST-DXB-001,Enjoyed the Mango Lassi  Paneer Butter Masala  Fish Curry  Gulab Jamun (2 pcs)  and Kulfi! Mango Lassi was very good. Portion sizes were generous. Recommend!,4,2025-08-04T10:56:24.175
+REV-000007,ORD-20250801-131993,CUST-10495,REST-DXB-001,Good quality food. Palak Paneer were nicely done. Palak Paneer could have been slightly spicier but still good!,4,2025-08-05T10:17:35.175
+REV-000006,ORD-20250731-960728,CUST-10449,REST-DXB-002,Average experience. Fresh Lime Soda  Vegetable Biryani  Malai Kofta  and Butter Naan were fine but Fresh Lime Soda was a bit bland. Room for improvement.,3,2025-08-05T13:58:46.175
+REV-000011,ORD-20250805-632767,CUST-10146,REST-DXB-001,Decent food but nothing special. Chicken Tikka Masala were okay. Chicken Tikka Masala lacked the punch I expected.,3,2025-08-08T16:04:13.175

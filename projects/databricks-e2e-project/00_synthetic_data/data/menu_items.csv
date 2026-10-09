@@ -1,0 +1,10 @@
+restaurant_id,item_id,name,category,price,ingredients,is_vegetarian,spice_level
+REST-AUH-001,ITEM-101,Samosa (2 pcs),Starter,18.49,"Potato, Peas, Spices, Pastry",True,Medium
+REST-AUH-001,ITEM-102,Paneer Tikka,Starter,36.56,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-AUH-001,ITEM-103,Chicken 65,Starter,38.66,"Chicken, Curry Leaves, Spices",False,Hot
+REST-AUH-001,ITEM-104,Aloo Tikki Chaat,Starter,21.87,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-AUH-001,ITEM-105,Chicken Seekh Kebab,Starter,41.24,"Minced Chicken, Spices, Onion",False,Medium
+REST-AUH-001,ITEM-201,Paneer Butter Masala,Main Course,43.66,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-AUH-001,ITEM-202,Dal Makhani,Main Course,37.47,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-AUH-001,ITEM-203,Palak Paneer,Main Course,42.37,"Spinach, Paneer, Spices",True,Medium
+REST-AUH-001,ITEM-204,Malai Kofta,Main Course,41.92,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
